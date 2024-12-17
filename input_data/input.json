@@ -1,0 +1,14 @@
+{
+    "string1_notes": "This is a dummy input json",
+    "string2_notes": "These inputs are random, please don't take it seriously.",
+    "config_file1": "s3://Your_s3_Bucket/path/to/file1/file1.txt",
+    "config_file2": "s3://Your_s3_Bucket/path/to/file2/file2.bed",
+    "config_file3": "s3://Your_s3_Bucket/path/to/file3/file3.json",
+    "dna_sam_file": "s3://Your_s3_Bucket/path/to/sam/sample1.sam",
+    "ref_fasta": "s3://Your_s3_Bucket/path/to/hg19/genome.fa",
+    "logo_png": "s3://Your_s3_Bucket/path/to/logo/logo.png",
+    "gene_list_file": "s3://Your_s3_Bucket/path/to/gene_list.txt",
+    "hg_length": "s3://Your_s3_Bucket/path/to/1.0.0/genome.length",
+    "dna_bai": "s3://Your_s3_Bucket/path/to/dna_bam/sample1.bam.bai",
+    "dna_bam": "s3://Your_s3_Bucket/path/to/dna_bam/sample1.bam"
+}
